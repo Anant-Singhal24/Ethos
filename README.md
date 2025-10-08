@@ -97,16 +97,8 @@ Ethos/
 > 🎥 **Live Demo Coming Soon**
 
 ### 📸 Screenshots
+<img width="1915" height="990" alt="image" src="https://github.com/user-attachments/assets/ecc1716c-acc6-4d0b-acd7-2d05c305f7fa" />
 
-<div align="center">
-
-| Dashboard | Search & Filter | Timeline View |
-|:-:|:-:|:-:|
-| ![Dashboard](https://via.placeholder.com/300x200/0ea5e9/ffffff?text=Dashboard) | ![Search](https://via.placeholder.com/300x200/06b6d4/ffffff?text=Search) | ![Timeline](https://via.placeholder.com/300x200/3b82f6/ffffff?text=Timeline) |
-| **Alerts Management** | **Entity Details** | **Analytics** |
-| ![Alerts](https://via.placeholder.com/300x200/ef4444/ffffff?text=Alerts) | ![Details](https://via.placeholder.com/300x200/8b5cf6/ffffff?text=Details) | ![Analytics](https://via.placeholder.com/300x200/10b981/ffffff?text=Analytics) |
-
-</div>
 
 ---
 
